@@ -1,1 +1,1 @@
-Lab 5 - Changing old html to html5
+Lab 5 - Change html to html5
